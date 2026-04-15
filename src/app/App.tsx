@@ -459,6 +459,11 @@ export default function App() {
   const [soundOn, setSoundOn] = useState(false);
   const soundCtx = { enabled: soundOn, toggle: () => setSoundOn((p) => !p) };
 
+  /* Page title */
+  useEffect(() => {
+    document.title = "DONSC. — Sites que vendem. Sistemas que funcionam. IA que acelera.";
+  }, []);
+
   useEffect(() => {
     let animId: number;
     let start = 0;

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#DE0F0F"/>
+      <stop offset="50%" stop-color="#C20D0D"/>
+      <stop offset="100%" stop-color="#8B0A0A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="280" text-anchor="middle" font-family="'Space Grotesk','Inter',system-ui,sans-serif" font-size="120" font-weight="700" letter-spacing="-6" fill="#FFFFFF">DONSC.</text>
+  <text x="600" y="370" text-anchor="middle" font-family="'Inter',system-ui,sans-serif" font-size="32" font-weight="400" fill="rgba(255,255,255,0.85)">Sites que vendem. Sistemas que funcionam. IA que acelera.</text>
+</svg>
